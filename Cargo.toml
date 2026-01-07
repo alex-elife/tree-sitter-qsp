@@ -1,6 +1,6 @@
 [package]
 name = "tree-sitter-qsp"
-description = "Qsp grammar for tree-sitter"
+description = "QSP grammar for tree-sitter"
 version = "0.1.0"
 authors = ["Alexey Burlakov <alexey.burlakov@elife.co.jp>"]
 license = "MIT"
